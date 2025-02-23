@@ -1,0 +1,39 @@
+{"record":
+{"accessRestriction":{"status":"Unrestricted"},
+"ancestors":[
+	{"distance":2,
+	"inclusiveEndDate":{"logicalDate":"1952-01-01","year":1952},
+	"inclusiveStartDate":{"logicalDate":"1917-01-01","year":1917},
+	"levelOfDescription":"recordGroup",
+	"naId":332,
+	"recordGroupNumber":3,
+	"title":"Records of the U.S. Housing Corporation"},
+	{"creators":[
+		{"abolishDate":{"logicalDate":"1921-01-01","year":1921},
+		"authorityType":"organization",
+		"creatorType":"Most Recent",
+		"establishDate":{"logicalDate":"1917-01-01","year":1917},
+		"heading":"U.S. Housing Corporation. Reference Library. ( 1917 - 1921)","naId":10489365}
+		],
+		"distance":1,
+		"inclusiveEndDate":{"logicalDate":"1918-01-01","year":1918},
+		"inclusiveStartDate":{"logicalDate":"1918-01-01","year":1918},
+		"levelOfDescription":"series",
+		"naId":512417,
+		"title":"Photographic Negatives of Blueprints and Grading Plans Used to Design Housing and Community Structures of World War I Workers"}
+],
+"audiovisual":"False",
+"dataControlGroup":{"groupCd":"RRSS","groupId":"RRSS","groupName":"National Archives at College Park – Still Pictures"},
+"digitalObjects":[
+{"objectFileSize":181978000,"objectFilename":"3-BGP-36_001.tif","objectId":"404793402","objectType":"Image (TIFF)","objectUrl":"https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/stillpix/003-bgp/Batch0001/3-BGP-36_001.tif"},
+{"objectFileSize":179435376,"objectFilename":"3-BGP-36_002.tif","objectId":"404793403","objectType":"Image (TIFF)","objectUrl":"https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/stillpix/003-bgp/Batch0001/3-BGP-36_002.tif"}
+],
+"generalRecordsTypes":["Photographs and other Graphic Materials"],
+"levelOfDescription":"item",
+"localIdentifier":"3-BGP-36",
+"naId":404793401,
+"physicalOccurrences":[{"copyStatus":"Preservation-Reproduction-Reference","mediaOccurrences":[{"generalMediaTypes":["Photographic Materials"],"specificMediaType":"Photographic Print"}],"referenceUnits":[{"address1":"National Archives at College Park","address2":"8601 Adelphi Road","city":"College Park","email":"stillpix@nara.gov","fax":"301-837-3621","mailCode":"RRSS","name":"National Archives at College Park - Still Pictures","phone":"301-837-0561","postalCode":"20740-6001","state":"MD"}]}],
+"recordType":"description",
+"scopeAndContentNote":"Original Caption: South Charleston, W. Va.  Project No. 18  Grading Plan and Planting Plan.",
+"title":"Photograph of the Drawing and Planting Plans for South Charleston, West Virginia",
+"useRestriction":{"status":"Unrestricted"}}}
