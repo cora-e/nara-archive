@@ -63,7 +63,7 @@ if __name__ == '__main__':
     for hits in hits_per_file:
         all_hits.extend(hits)
 
-    with open(f"urls_{sys.argv[2]}.txt", "w") as outf:
+    with open(f'urls_{sys.argv[2].replace("/","-")}.txt', "w") as outf:
         for hit in all_hits:
             outf.write(hit+"\n")
 
